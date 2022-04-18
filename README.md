@@ -1,3 +1,5 @@
-# search&recommendation with faiss
-1) DeepFace-based Face recommendation practice
-2) BERT-based Text search&recommendation practive
+# Advanced Face Search&Recommendation with faiss
+
+### DeepFace-based Face recommendation practice
+
+> run 06_04_search_face.ipynb at colab
